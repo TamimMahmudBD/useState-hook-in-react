@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/useState-hook-in-react/static/css/main.82157702.css",
+    "main.js": "/useState-hook-in-react/static/js/main.0b7e49c7.js",
+    "static/js/787.e1e3cceb.chunk.js": "/useState-hook-in-react/static/js/787.e1e3cceb.chunk.js",
+    "index.html": "/useState-hook-in-react/index.html",
+    "main.82157702.css.map": "/useState-hook-in-react/static/css/main.82157702.css.map",
+    "main.0b7e49c7.js.map": "/useState-hook-in-react/static/js/main.0b7e49c7.js.map",
+    "787.e1e3cceb.chunk.js.map": "/useState-hook-in-react/static/js/787.e1e3cceb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82157702.css",
+    "static/js/main.0b7e49c7.js"
+  ]
+}
